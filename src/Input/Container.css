@@ -1,0 +1,17 @@
+input {
+	width: 100%;
+	margin-right: auto;
+}
+
+button {
+	margin-left: 2%;
+}
+
+.Input-Wrapper {
+	display: flex;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	padding: .4rem 1rem 2rem 1rem;
+	background-color: rgb(214, 208, 196);
+}
